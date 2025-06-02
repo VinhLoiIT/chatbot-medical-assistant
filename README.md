@@ -90,3 +90,4 @@ Phase 2: Document retrieval
 
 - Agno Agentic RAG: https://github.com/agno-agi/agno/tree/main/cookbook/examples/streamlit_apps/agentic_rag
 - Gemini API: https://ai.google.dev/gemini-api/docs
+- Sample PDF file: https://lab.mlaw.gov.sg/files/Sample-filled-in-MR.pdf
