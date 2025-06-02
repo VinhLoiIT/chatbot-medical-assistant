@@ -1,5 +1,10 @@
 # Chatbot - Medical Assistant
 
+## Screenshots
+
+![chat-screen](./docs/chat-screen.png)
+![document-management-screen](./docs/document-management-screen.png)
+
 ## Features
 - [x] Chat session management
 - [x] Local file management
